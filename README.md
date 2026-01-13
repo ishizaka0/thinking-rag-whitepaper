@@ -1,9 +1,15 @@
 # **Thinking RAG — An AI Framework for Preserving and Reproducing Human Thought**
 
-**(Whitepaper v1.2.1)**
+**(Whitepaper v1.2.1) 2025/12/25**
 
 **Authors: Takehiko Ishizaka (CreativeCrew Inc. Vietnam) / Ryota Usami (CreativeCrew Inc. Japan)**  
 **Joint Research and Co-Authorship**
+
+**Documents**
+- [Thinking RAG Whitepaper (EN)](README.md)
+- [Thinking RAG Whitepaper (JA)](README-ja.md)
+- [Thinking Workflow UI Whitepaper (EN)](Thinking_WorkFlow_UI.md)
+- [Thinking Workflow UI Whitepaper (JA)](Thinking_WorkFlow_UI-ja.md)
 
 ---
 

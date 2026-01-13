@@ -1,7 +1,14 @@
 # **Thinking RAG — 思考を記憶し再現するAIフレームワーク（Whitepaper v1.2.1）**
 
+**(Whitepaper v1.2.1) 2025/12/25**
 **著者：石坂竹比古（CreativeCrew Inc. Vietnam） / 宇佐美良太（CreativeCrew Inc. Japan）**  
 **共同研究・共同執筆**
+
+**関連ドキュメント**
+- [Thinking RAG ホワイトペーパー（英語版）](README.md)
+- [Thinking RAG ホワイトペーパー（日本語版）](README-ja.md)
+- [Thinking Workflow UI ホワイトペーパー（英語版）](Thinking_WorkFlow_UI.md)
+- [Thinking Workflow UI ホワイトペーパー（日本語版）](Thinking_WorkFlow_UI-ja.md)
 
 ---
 
